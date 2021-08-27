@@ -26,6 +26,24 @@ body {
 .carousel-item {
   height: 32rem;
 }
+
+.car-bg1{
+  background-image: url("../assets/images/slide1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.car-bg2{
+  background-image: url("../assets/images/slide1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.car-bg3{
+  background-image: url("../assets/images/slide1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 .carousel-item > img {
   position: absolute;
   top: 0;
